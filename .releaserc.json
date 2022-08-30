@@ -8,7 +8,7 @@
     [
       "@semantic-release/exec",
       {
-        "publishCmd": "ls -a && ./apps/scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()} && ls -a",
+        "publishCmd": "ls -a && ./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()} && ls -a",
         "publish": false
       }
     ],

@@ -6,7 +6,6 @@ void main() {
 }
 
 
-
 class BuyerApp extends StatelessWidget {
   // This widget is the root of your application.
   @override

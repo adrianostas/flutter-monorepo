@@ -3,7 +3,7 @@
 set -e
 VERSION="$1"
 export VERSION
-echo current dir is: $PWD
+echo current dir iss: $PWD
 
 
 

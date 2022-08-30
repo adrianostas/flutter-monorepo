@@ -13,4 +13,4 @@ git add pubspec.yaml
 git commit -m "update_pubspec"
 git push origin master
 
-chmod +x ./scripts/publish.sh
+#chmod +x ./scripts/publish.sh

@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.17.0](https://github.com/adrianostas/flutter-monorepo/compare/v1.16.0...v1.17.0) (2022-08-30)
+
+
+### Features
+
+* fix script path ([be720a4](https://github.com/adrianostas/flutter-monorepo/commit/be720a483c417280678491b43b1458933e365754))
+
 # [1.16.0](https://github.com/adrianostas/flutter-monorepo/compare/v1.15.0...v1.16.0) (2022-08-30)
 
 

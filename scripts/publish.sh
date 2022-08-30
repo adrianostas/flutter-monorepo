@@ -5,6 +5,7 @@ VERSION="$1"
 export VERSION
 echo current dir iss: $PWD
 
+cat "${PWD}/apps/buyer_app/pubspec.yaml"
 
 
 # replace version in pubspec with version received from semantic release & increment build number

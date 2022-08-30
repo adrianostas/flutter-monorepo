@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.11.0](https://github.com/adrianostas/flutter-monorepo/compare/v1.10.0...v1.11.0) (2022-08-30)
+
+
+### Features
+
+* move script ([75b2c1f](https://github.com/adrianostas/flutter-monorepo/commit/75b2c1fcc702fd4509933cc76395f882fbf0b72b))
+
 # [1.10.0](https://github.com/adrianostas/flutter-monorepo/compare/v1.9.0...v1.10.0) (2022-08-30)
 
 

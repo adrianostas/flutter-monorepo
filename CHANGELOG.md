@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.23.0](https://github.com/adrianostas/flutter-monorepo/compare/v1.22.0...v1.23.0) (2022-08-30)
+
+
+### Features
+
+* fix script path *5 ([1cf8c4b](https://github.com/adrianostas/flutter-monorepo/commit/1cf8c4be515d9ef2ffcf79501097dda868f01b49))
+
 # [1.22.0](https://github.com/adrianostas/flutter-monorepo/compare/v1.21.0...v1.22.0) (2022-08-30)
 
 

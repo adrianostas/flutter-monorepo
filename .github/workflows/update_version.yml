@@ -11,6 +11,14 @@ jobs:
   setup_cider:
     runs-on: ubuntu-22.04
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup flutter
+        uses: subosito/flutter-action@v1
+        with:
+          flutter-version: '3.x'
+          channel: stable
       - run: |
           flutter pub global activate cider
           cider release
@@ -29,6 +37,5 @@ jobs:
         run: npx semantic-release
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
-  FLUTTER_VERSION: "3.x."
-  FLUTTER_CHANNEL: "stable"
+
 

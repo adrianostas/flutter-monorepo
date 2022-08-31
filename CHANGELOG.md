@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.24.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.23.0...v2.24.0) (2022-08-31)
+
+
+### Features
+
+* fix activate command ([a813354](https://github.com/adrianostas/flutter-monorepo/commit/a813354b7d7ab6c44962d3ba211bd98df1911037))
+
 # [2.23.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.22.0...v2.23.0) (2022-08-31)
 
 

@@ -1,5 +1,19 @@
 # Semantic Versioning Changelog
 
+# [2.28.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.27.0...v2.28.0) (2022-08-31)
+
+
+### Features
+
+* add dart ([7e01a6a](https://github.com/adrianostas/flutter-monorepo/commit/7e01a6acd59be7ea1757ce08de2728fa1802f4c1))
+* add dart ([ce0e895](https://github.com/adrianostas/flutter-monorepo/commit/ce0e8950e952056f4280a1e54e2778cd651444d0))
+* add melos and cider ([392b592](https://github.com/adrianostas/flutter-monorepo/commit/392b592d88eddbe0bc525cec95816dbcdda93b0d))
+* change flutter version to 2x ([c54bb3c](https://github.com/adrianostas/flutter-monorepo/commit/c54bb3c27ed3384c872daeba22ff0658eb348873))
+* fix pubspec ([c8c5e21](https://github.com/adrianostas/flutter-monorepo/commit/c8c5e2126f1bae6ad065331be40ff2e0bce05f6d))
+* remove job dep ([f0dfca4](https://github.com/adrianostas/flutter-monorepo/commit/f0dfca4c014300ed37f91076dcd36233f6e035b8))
+* test ([b460643](https://github.com/adrianostas/flutter-monorepo/commit/b460643636c1f1b0cc8bc8e6f4862bcea13bbec8))
+* test ([9ac0a11](https://github.com/adrianostas/flutter-monorepo/commit/9ac0a1131e1e19988f4a49cbe21fde22c5f9df2a))
+
 # [2.27.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.26.0...v2.27.0) (2022-08-31)
 
 

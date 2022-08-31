@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.23.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.22.0...v2.23.0) (2022-08-31)
+
+
+### Features
+
+* add cider to script ([06d9b14](https://github.com/adrianostas/flutter-monorepo/commit/06d9b1482df14179d2c5c002af1ec0566480a691))
+
 # [2.22.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.21.0...v2.22.0) (2022-08-31)
 
 

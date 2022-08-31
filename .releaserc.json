@@ -5,18 +5,17 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     [
-      "@semantic-release/exec",
-      {
-        "publishCmd": "ls -a && ./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()} && ls -a",
-        "publish": false
-      }
-    ],
-    "@semantic-release/github",
-    [
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md",
         "changelogTitle": "# Semantic Versioning Changelog"
+      }
+    ],
+    [
+      "@semantic-release/exec",
+      {
+        "publishCmd": "ls -a && ./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()} && ls -a",
+        "publish": false
       }
     ],
     [
@@ -28,6 +27,7 @@
           "pubspec.yaml"
         ]
       }
-    ]
+    ],
+    "@semantic-release/github"
   ]
 }

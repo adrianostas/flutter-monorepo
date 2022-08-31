@@ -3,10 +3,13 @@
 set -e
 VERSION="$1"
 export VERSION
-echo "$1"
 
 cd apps/buyer_app
 
+echo VERSION
+echo "$2"
+
+cider version
 cider bump VERSION
 
 # replace version in pubspec with version received from semantic release & increment build number

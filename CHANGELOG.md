@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.12.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.11.0...v2.12.0) (2022-08-31)
+
+
+### Features
+
+* test action with package.json ([0794787](https://github.com/adrianostas/flutter-monorepo/commit/0794787d4c1c23c6b4601ee94b4371b011d70872))
+
 # [2.11.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.10.0...v2.11.0) (2022-08-31)
 
 

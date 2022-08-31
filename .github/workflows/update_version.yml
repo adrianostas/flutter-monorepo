@@ -9,7 +9,6 @@ on:
 
 jobs:
   update_version:
-    needs: setup_cider
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2

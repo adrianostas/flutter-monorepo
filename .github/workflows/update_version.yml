@@ -8,7 +8,8 @@ on:
 
 
 jobs:
-  setup_cider:
+  update_version:
+    needs: setup_cider
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout
@@ -17,16 +18,11 @@ jobs:
       - name: Setup flutter
         uses: subosito/flutter-action@v1
         with:
-          flutter-version: '2.x'
+          flutter-version: '3.x'
           channel: stable
       - run: |
           flutter pub global activate cider
-          flutter pub get
 
-  update_version:
-    needs: setup_cider
-    runs-on: ubuntu-22.04
-    steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:

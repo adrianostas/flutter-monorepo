@@ -12,6 +12,12 @@
       }
     ],
     [
+      "@semantic-release/npm",
+      {
+        "npmPublish": false
+      }
+    ],
+    [
       "@semantic-release/exec",
       {
         "publishCmd": "ls -a && ./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()} && ls -a"

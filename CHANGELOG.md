@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.2.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.1.0...v2.2.0) (2022-08-31)
+
+
+### Features
+
+* add activate melos ([0000a1f](https://github.com/adrianostas/flutter-monorepo/commit/0000a1f42e9949a092e66c79fb32f1af1afc12e6))
+
 # [2.1.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.0.0...v2.1.0) (2022-08-31)
 
 

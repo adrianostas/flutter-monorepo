@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [4.0.0](https://github.com/adrianostas/flutter-monorepo/compare/v3.0.0...v4.0.0) (2022-08-31)
+
+
+### Features
+
+* trigger ci ([6ebcc1f](https://github.com/adrianostas/flutter-monorepo/commit/6ebcc1fdbb6a6dc0fea1d2ea727cf15feeeaa55a))
+
+
+### BREAKING CHANGES
+
+* test
+
 # [3.0.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.32.0...v3.0.0) (2022-08-31)
 
 

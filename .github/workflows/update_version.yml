@@ -9,7 +9,6 @@ on:
 
 jobs:
   update_version:
-    needs: setup_flutter
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

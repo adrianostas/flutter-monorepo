@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.3.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.2.0...v2.3.0) (2022-08-31)
+
+
+### Features
+
+* add flutter to github action ([ff95057](https://github.com/adrianostas/flutter-monorepo/commit/ff950577762d78fd38bf26b35a6f5bce162b33a9))
+
 # [2.2.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.1.0...v2.2.0) (2022-08-31)
 
 

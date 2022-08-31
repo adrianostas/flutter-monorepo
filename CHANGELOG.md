@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.30.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.29.0...v2.30.0) (2022-08-31)
+
+
+### Features
+
+* trigger ci ([cbd27c5](https://github.com/adrianostas/flutter-monorepo/commit/cbd27c5e26054a09345fd03a7eec9d2d4c09cbb0))
+
 # [2.29.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.28.0...v2.29.0) (2022-08-31)
 
 

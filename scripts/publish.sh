@@ -4,7 +4,7 @@ set -e
 VERSION="$1"
 export VERSION
 
-#cd apps/buyer_app
+cd apps/buyer_app
 dart pub global activate melos
 melos bootstrap
 # replace version in pubspec with version received from semantic release & increment build number

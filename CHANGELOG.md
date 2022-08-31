@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.14.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.13.0...v2.14.0) (2022-08-31)
+
+
+### Features
+
+* change order in realeaserc ([734b50c](https://github.com/adrianostas/flutter-monorepo/commit/734b50c0fc9ae7015babcde3a5991b7ddc0a74d3))
+
 # [2.13.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.12.0...v2.13.0) (2022-08-31)
 
 

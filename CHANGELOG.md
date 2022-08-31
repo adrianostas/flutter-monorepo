@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.16.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.15.0...v2.16.0) (2022-08-31)
+
+
+### Features
+
+* add git add package json ([1a8c729](https://github.com/adrianostas/flutter-monorepo/commit/1a8c72983f8e11c240d722b154dab7c4b1cf9e79))
+
 # [2.15.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.14.0...v2.15.0) (2022-08-31)
 
 

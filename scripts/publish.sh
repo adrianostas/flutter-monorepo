@@ -1,7 +1,5 @@
 #!/bin/bash
 
-dart pub global activate cider
-
 set -e
 VERSION="$1"
 export VERSION

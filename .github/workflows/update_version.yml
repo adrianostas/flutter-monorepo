@@ -8,7 +8,19 @@ on:
 
 
 jobs:
+  setup_cider:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: subosito/flutter-action@v1
+        run: |
+          export PATH="$PATH":"$HOME/.pub-cache/bin"
+          pub global activate cider
+          cider release
+          
+          
+
   update_version:
+    needs: setup_cider
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2

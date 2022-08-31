@@ -9,10 +9,6 @@ on:
 
 jobs:
   setup_flutter:
-    strategy:
-      matrix:
-        os: [ ubuntu-latest ]
-      max-parallel: 1
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -31,6 +27,7 @@ jobs:
         run: melos bootstrap
 
   update_version:
+    needs: setup_flutter
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

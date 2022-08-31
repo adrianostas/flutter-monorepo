@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.11.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.10.0...v2.11.0) (2022-08-31)
+
+
+### Features
+
+* remove github url ([46e724c](https://github.com/adrianostas/flutter-monorepo/commit/46e724c1b1c46007548906f748e1bd385b78a80a))
+
 # [2.10.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.9.0...v2.10.0) (2022-08-31)
 
 

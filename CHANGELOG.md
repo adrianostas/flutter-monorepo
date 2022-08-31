@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.8.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.7.0...v2.8.0) (2022-08-31)
+
+
+### Features
+
+* add dart setup to github action ([f0c1828](https://github.com/adrianostas/flutter-monorepo/commit/f0c182873090614bb3bcdaeaf1beae87d28bd1f0))
+
 # [2.7.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.6.0...v2.7.0) (2022-08-31)
 
 

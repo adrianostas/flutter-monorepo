@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.4.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.3.0...v2.4.0) (2022-08-31)
+
+
+### Features
+
+* remove flutter command ([b846843](https://github.com/adrianostas/flutter-monorepo/commit/b84684331e1704ef7553b25f6c83c602cbb670c1))
+
 # [2.3.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.2.0...v2.3.0) (2022-08-31)
 
 

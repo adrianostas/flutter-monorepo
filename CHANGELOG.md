@@ -1,5 +1,21 @@
 # Semantic Versioning Changelog
 
+# [2.27.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.26.0...v2.27.0) (2022-08-31)
+
+
+### Features
+
+* add flutter command ([4102bcb](https://github.com/adrianostas/flutter-monorepo/commit/4102bcb9e28ed77fe658f7bb3323f8e628998763))
+* add flutter command ([3d0cf46](https://github.com/adrianostas/flutter-monorepo/commit/3d0cf4610897f6bf14e1762e45bf235600a7f4da))
+* add flutter command ([b6c5a09](https://github.com/adrianostas/flutter-monorepo/commit/b6c5a099d6d0f7aa66e5c9a16f201aa837fd2675))
+* add pub get ([010ac4b](https://github.com/adrianostas/flutter-monorepo/commit/010ac4ba5451ea69e3a19212b104b59df08d0074))
+* remove cider release ([58a8da4](https://github.com/adrianostas/flutter-monorepo/commit/58a8da42f2ab4d0ec3fd9a048b5b837caac0ab22))
+* trigger ci ([b4e1469](https://github.com/adrianostas/flutter-monorepo/commit/b4e1469d055ff440efc9ccd2068f98081abbe4c4))
+* trigger ci ([3ce7431](https://github.com/adrianostas/flutter-monorepo/commit/3ce74314f0947e57290c98c58974d389a05a209f))
+* trigger ci ([7f3335d](https://github.com/adrianostas/flutter-monorepo/commit/7f3335ddbaab0d1fe9fd6260b422a0d241259c62))
+* trigger ci *2 ([c493fc1](https://github.com/adrianostas/flutter-monorepo/commit/c493fc1892e4e58d3cb39bdfe027788ea562515d))
+* trigger ci *2 ([4b302c0](https://github.com/adrianostas/flutter-monorepo/commit/4b302c0c27b92df4bb025dcd4b4a21cb94c0e238))
+
 # [2.26.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.25.0...v2.26.0) (2022-08-31)
 
 

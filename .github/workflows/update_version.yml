@@ -11,13 +11,17 @@ jobs:
   setup_cider:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
-      - uses: dart-lang/setup-dart@v1.3
+      - name: Checkout
+        uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: dart pub get
+      - name: Setup flutter
+        uses: subosito/flutter-action@v1
+        with:
+          flutter-version: '3.x'
+          channel: stable
       - run: |
-          dart pub global activate cider
+          flutter pub global activate cider
+          flutter pub get
 
   update_version:
     needs: setup_cider

@@ -1,5 +1,15 @@
 # Semantic Versioning Changelog
 
+# [2.1.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.0.0...v2.1.0) (2022-08-31)
+
+
+### Features
+
+* fix script path *10 ([2665b16](https://github.com/adrianostas/flutter-monorepo/commit/2665b1682d9cc8f389689241f6d27a4c465d9c7a))
+* fix script path *11 ([0aa6304](https://github.com/adrianostas/flutter-monorepo/commit/0aa630424cdc7ce2f6953053c21f59497f345027))
+* test melos ([6d715c9](https://github.com/adrianostas/flutter-monorepo/commit/6d715c9f9694af2ed6567eb7534dc695aa9728fb))
+* trigger ci ([914cace](https://github.com/adrianostas/flutter-monorepo/commit/914cace3cb463d6d17a8bf3a9f3774aa6de6610d))
+
 # [2.0.0](https://github.com/adrianostas/flutter-monorepo/compare/v1.26.0...v2.0.0) (2022-08-30)
 
 

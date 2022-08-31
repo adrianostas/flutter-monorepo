@@ -4,8 +4,6 @@ set -e
 VERSION="$1"
 export VERSION
 
-flutter pub global activate melos
-
 #cd apps/buyer_app
 
 # replace version in pubspec with version received from semantic release & increment build number

@@ -3,12 +3,16 @@ on:
   push:
     branches: [ master ]
     paths:
-          - 'apps/buyer_app/**'
+      - 'apps/buyer_app/**'
   workflow_dispatch:
 
 
 jobs:
   setup_flutter:
+    strategy:
+      matrix:
+        os: [ ubuntu-latest ]
+      max-parallel: 1
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

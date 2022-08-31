@@ -6,11 +6,7 @@ export VERSION
 
 cd apps/buyer_app
 
-echo VERSION
-echo "$2"
-
-cider version
-cider bump "$VERSION"
+cider bump "$VERSION" --bump-build
 
 # replace version in pubspec with version received from semantic release & increment build number
 #perl -i -pe 's/(version:)(\s*)((\d+\.)+\d+)(\+)(\d+)$/$1.$2.$ENV{VERSION}.$5.($6+1)/e' pubspec.yaml

@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.18.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.17.0...v2.18.0) (2022-08-31)
+
+
+### Features
+
+* remove sh script ([72b0146](https://github.com/adrianostas/flutter-monorepo/commit/72b0146c0a6ca74ac5dea05b991c35dd328d2d58))
+
 # [2.17.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.16.0...v2.17.0) (2022-08-31)
 
 

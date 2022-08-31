@@ -5,7 +5,6 @@ void main() {
   runApp(BuyerApp());
 }
 
-
 class BuyerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

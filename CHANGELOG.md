@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.7.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.6.0...v2.7.0) (2022-08-31)
+
+
+### Features
+
+* remove job strategy ([5ca948e](https://github.com/adrianostas/flutter-monorepo/commit/5ca948e25902d430c9c66f91ee1baecc8474f149))
+
 # [2.6.0](https://github.com/adrianostas/flutter-monorepo/compare/v2.5.0...v2.6.0) (2022-08-31)
 
 

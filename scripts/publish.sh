@@ -6,7 +6,7 @@ export VERSION
 echo "$1"
 
 export PATH="$PATH":"$HOME/.pub-cache/bin"
-pub global activate cider
+dart pub global activate cider
 
 cd apps/buyer_app
 

@@ -11,12 +11,10 @@
         "changelogTitle": "# Semantic Versioning Changelog"
       }
     ],
-    "@semantic-release/npm",
     [
       "@semantic-release/exec",
       {
-        "publishCmd": "ls -a && ./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()} && ls -a",
-        "publish": false
+        "publishCmd": "ls -a && ./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()} && ls -a"
       }
     ],
     [

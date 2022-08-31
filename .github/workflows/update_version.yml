@@ -21,7 +21,6 @@ jobs:
           channel: stable
       - run: |
           flutter pub global activate cider
-          flutter pub get
 
   update_version:
     needs: setup_cider

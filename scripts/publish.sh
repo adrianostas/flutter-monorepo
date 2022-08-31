@@ -1,11 +1,11 @@
 #!/bin/bash
 
+dart pub global activate cider
+
 set -e
 VERSION="$1"
 export VERSION
 echo "$1"
-
-dart pub global activate cider
 
 cd apps/buyer_app
 

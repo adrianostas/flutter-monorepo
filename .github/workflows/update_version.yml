@@ -22,6 +22,7 @@ jobs:
       - run: |
           flutter pub global activate cider
           cider release
+          flutter pub get
 
   update_version:
     needs: setup_cider

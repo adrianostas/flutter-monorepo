@@ -3,7 +3,7 @@
 set -e
 VERSION="$1"
 export VERSION
-
+echo "$VERSION"
 cd apps/buyer_app
 
 cider bump "$VERSION" --bump-build

@@ -17,10 +17,10 @@ jobs:
         with:
           channel: stable
 
-      - name:  melos
+      - name: Setup melos
         run: dart pub global activate melos
 
-      - name:  cider
+      - name: Setup cider
         run: dart pub global activate cider
 
       - name: Get packages

@@ -20,7 +20,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "./scripts/publish.sh ${nextRelease.type} ${options.branch} ${commits.length} ${Date.now()}"
+        "prepareCmd": "cider bump ${nextRelease.type} ${options.branch} ${commits.length} ${Date.now()}"
       }
     ],
     [

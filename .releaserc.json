@@ -27,7 +27,7 @@
       "@semantic-release/git",
       {
         "assets": [
-          "pubspec.yaml",
+         "apps/buyer_app/pubspec.yaml",
           "package.json",
           "CHANGELOG.md"
         ]

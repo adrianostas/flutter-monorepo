@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [7.10.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.9.0...v7.10.0) (2022-09-01)
+
+
+### Bug Fixes
+
+* test without git push ([40e843b](https://github.com/adrianostas/flutter-monorepo/commit/40e843b5890c519dcd626c772d907203004648d9))
+
+
+### Features
+
+* add back cider bump ([9325f78](https://github.com/adrianostas/flutter-monorepo/commit/9325f78b34f126a6d8e0d3dd805e2a5130837de7))
+
 # [7.9.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.8.0...v7.9.0) (2022-09-01)
 
 

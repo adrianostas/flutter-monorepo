@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [7.13.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.12.0...v7.13.0) (2022-09-01)
+
+
+### Features
+
+* remove comments, sync version ([a9253df](https://github.com/adrianostas/flutter-monorepo/commit/a9253df8b8d9f3bd658173f2ce811a58fe523fc9))
+
 # [7.12.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.11.0...v7.12.0) (2022-09-01)
 
 

@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [7.8.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.7.0...v7.8.0) (2022-09-01)
+
+
+### Features
+
+* fix parameter passed ([36971e1](https://github.com/adrianostas/flutter-monorepo/commit/36971e191cb565b1ff99f1e487bfcc33da69a08d))
+
 # [7.7.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.6.0...v7.7.0) (2022-09-01)
 
 

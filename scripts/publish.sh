@@ -7,7 +7,7 @@ echo "$VERSION"
 #cd apps/buyer_app
 
 #cider bump "$VERSION" --bump-build
-melos version -buyer_app:"$VERSION""${{ env.NUMBER_OF_COMMITS }"}
+melos version --manual-version=buyer_app:"$VERSION"
 
 git add pubspec.yaml
 git commit -m "update_pubspec"

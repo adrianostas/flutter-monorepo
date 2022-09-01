@@ -6,7 +6,7 @@ export VERSION
 echo "$VERSION"
 cd apps/buyer_app
 
-cider version "$VERSION" --bump-build
+cider bump "$VERSION" --bump-build
 
 
 git add pubspec.yaml

@@ -1,5 +1,15 @@
 # Semantic Versioning Changelog
 
+## [7.10.4](https://github.com/adrianostas/flutter-monorepo/compare/v7.10.3...v7.10.4) (2022-09-01)
+
+
+### Bug Fixes
+
+* print exit code ([c81190d](https://github.com/adrianostas/flutter-monorepo/commit/c81190d62b69276db75540172bd2f3677821a667))
+* test without script ([47fe52c](https://github.com/adrianostas/flutter-monorepo/commit/47fe52c68969c3655f4e5b7e657141e390b06cad))
+* test without script *1 ([9f72e5c](https://github.com/adrianostas/flutter-monorepo/commit/9f72e5c296017b5360e33cc4dd68ea9f6577a34d))
+* test without script *2 ([6723cc5](https://github.com/adrianostas/flutter-monorepo/commit/6723cc58b236fe171342dce45a69ee07e6126e2b))
+
 ## [7.10.3](https://github.com/adrianostas/flutter-monorepo/compare/v7.10.2...v7.10.3) (2022-09-01)
 
 

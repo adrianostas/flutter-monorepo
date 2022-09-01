@@ -9,6 +9,6 @@ echo "$VERSION"
 #cider bump "$VERSION" --bump-build
 melos version buyer_app "$VERSION"
 
-git add pubspec.yaml
+#git add pubspec.yaml
 git commit -m "update_pubspec"
 git push origin master

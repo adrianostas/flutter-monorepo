@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [7.1.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.0.0...v7.1.0) (2022-09-01)
+
+
+### Features
+
+* change version with melos ([833a7a3](https://github.com/adrianostas/flutter-monorepo/commit/833a7a339f104eb9f878c9eb0b0945b02401a072))
+
 # [7.0.0](https://github.com/adrianostas/flutter-monorepo/compare/v6.0.0...v7.0.0) (2022-08-31)
 
 

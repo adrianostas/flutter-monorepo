@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [7.10.2](https://github.com/adrianostas/flutter-monorepo/compare/v7.10.1...v7.10.2) (2022-09-01)
+
+
+### Bug Fixes
+
+* test with git add ([4de2aaa](https://github.com/adrianostas/flutter-monorepo/commit/4de2aaa0e72ea3d5d38079296729067286266247))
+
 ## [7.10.1](https://github.com/adrianostas/flutter-monorepo/compare/v7.10.0...v7.10.1) (2022-09-01)
 
 

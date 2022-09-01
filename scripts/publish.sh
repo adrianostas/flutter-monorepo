@@ -10,5 +10,5 @@ cider bump "$VERSION" --bump-build
 
 
 git add pubspec.yaml
-git commit -m "update_pubspec"
-git push origin master
+#git commit -m "update_pubspec"
+#git push origin master

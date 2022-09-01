@@ -20,16 +20,16 @@
     [
       "@semantic-release/exec",
       {
-        "publishCmd": "./scripts/publish.sh ${nextRelease.type} ${options.branch} ${commits.length} ${Date.now()}"
+        "publishCmd": "${nextRelease.type} ${options.branch} ${commits.length} ${Date.now()}"
       }
     ],
     [
       "@semantic-release/git",
       {
         "assets": [
+          "pubspec.yaml",
           "package.json",
-          "CHANGELOG.md",
-          "pubspec.yaml"
+          "CHANGELOG.md"
         ]
       }
     ],

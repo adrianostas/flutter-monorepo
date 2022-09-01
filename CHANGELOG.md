@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [7.11.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.10.4...v7.11.0) (2022-09-01)
+
+
+### Features
+
+* add path for pubspec ([38bc460](https://github.com/adrianostas/flutter-monorepo/commit/38bc4601e860de11d27eebee47314158c2dc8e73))
+* add path for pubspec ([f850602](https://github.com/adrianostas/flutter-monorepo/commit/f850602497f0ed68f81f7d35786dab144d390ddf))
+
 ## [7.10.4](https://github.com/adrianostas/flutter-monorepo/compare/v7.10.3...v7.10.4) (2022-09-01)
 
 

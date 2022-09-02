@@ -8,6 +8,7 @@ echo "$VERSION"
 echo "$e"
 cd apps/buyer_app
 
+melos bootstrap
 flutter pub run cider bump "$VERSION" --bump-build
 melos bootstrap
 

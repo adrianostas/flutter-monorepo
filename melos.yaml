@@ -5,6 +5,7 @@ packages:
   - shared/**
 scripts:
   formatting:check: melos exec -- dart format --set-exit-if-changed .
+  bootstrap: npm install
 
   analyze: melos exec -- dart analyze --fatal-infos
 

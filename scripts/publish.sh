@@ -8,7 +8,6 @@ echo "$VERSION"
 echo "$e"
 cd apps/buyer_app
 
-cider bump "$VERSION" --bump-build
+flutter pub run cider bump "$VERSION" --bump-build
 
 echo $?
-

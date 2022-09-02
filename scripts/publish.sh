@@ -9,5 +9,6 @@ echo "$e"
 cd apps/buyer_app
 
 flutter pub run cider bump "$VERSION" --bump-build
+melos bootstrap
 
 echo $?

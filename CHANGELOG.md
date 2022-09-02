@@ -1,5 +1,24 @@
 # Semantic Versioning Changelog
 
+# [7.15.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.14.0...v7.15.0) (2022-09-02)
+
+
+### Bug Fixes
+
+* add cider to deps ([fe26718](https://github.com/adrianostas/flutter-monorepo/commit/fe26718753c416f3177a0337e7b1c581eaafd47b))
+* add melos bootstrap ([7a85661](https://github.com/adrianostas/flutter-monorepo/commit/7a85661349a3be3f2b5f52c3c2bbfa4b62eb5780))
+* add melos bootstrap *2 ([62c7fec](https://github.com/adrianostas/flutter-monorepo/commit/62c7fec05f091ca3adbfb2bb2ede743c58f4ba56))
+* add melos bs ([41edbc0](https://github.com/adrianostas/flutter-monorepo/commit/41edbc01c349d443d33500858f67356d3ad01a72))
+* add melos bs ([85b4aa9](https://github.com/adrianostas/flutter-monorepo/commit/85b4aa9a0dc1d0fbda5be8ac252e9ac4b73f34fd))
+* fix cider command ([4cc06d9](https://github.com/adrianostas/flutter-monorepo/commit/4cc06d98b3e434bfd2b94467468787f11fa01315))
+* test with npm melos bootstrap ([8aaaeda](https://github.com/adrianostas/flutter-monorepo/commit/8aaaeda897492c099f5eabb5dbff3568a88e003a))
+
+
+### Features
+
+* test without cider action ([6141a58](https://github.com/adrianostas/flutter-monorepo/commit/6141a58a5112b3efb78ede6abd6d5d774d598d08))
+* test without cider action ([8dd5dfa](https://github.com/adrianostas/flutter-monorepo/commit/8dd5dfa49d6b9d3ecc9f7fdc8faeebd91f269312))
+
 # [7.14.0](https://github.com/adrianostas/flutter-monorepo/compare/v7.13.0...v7.14.0) (2022-09-01)
 
 

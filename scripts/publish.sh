@@ -8,6 +8,6 @@ echo "$VERSION"
 echo "$e"
 cd apps/buyer_app
 
-bump "$VERSION" --bump-build
+cider bump "$VERSION" --bump-build
 
 echo $?

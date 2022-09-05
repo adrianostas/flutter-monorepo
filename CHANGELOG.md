@@ -1,7 +1,11 @@
 # Semantic Versioning Changelog
 
+# [8.1.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.0.0...v8.1.0) (2022-09-05)
 
 
+### Features
+
+* test manual tag ([a27ee7f](https://github.com/adrianostas/flutter-monorepo/commit/a27ee7fadbc6a9f973175fc34384fb2092df5bac))
 
 ### Features
 

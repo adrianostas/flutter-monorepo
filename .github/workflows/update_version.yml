@@ -6,6 +6,9 @@ on:
       - 'apps/buyer_app/**'
   workflow_dispatch:
 
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN}}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
 
 jobs:
   update_version:
@@ -13,6 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
+          fetch-depth: 0
           persist-credentials: false
       - name: Setup flutter
         uses: subosito/flutter-action@v2
@@ -34,7 +38,6 @@ jobs:
 
       - name: Run semantic release
         run: npx semantic-release
-env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
+
 
 

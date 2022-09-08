@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [8.9.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.8.0...v8.9.0) (2022-09-08)
+
+
+### Bug Fixes
+
+* test without fetch dept ([#6](https://github.com/adrianostas/flutter-monorepo/issues/6)) ([3e10b4e](https://github.com/adrianostas/flutter-monorepo/commit/3e10b4e2c8437d4a392c6a3290317cf44560cde0))
+
+
+### Features
+
+* test with allow bypass rule ([#7](https://github.com/adrianostas/flutter-monorepo/issues/7)) ([153fda9](https://github.com/adrianostas/flutter-monorepo/commit/153fda98930c0a0b68619ea8a28f5fdd5d167a71))
+
 # [8.8.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.7.0...v8.8.0) (2022-09-07)
 
 

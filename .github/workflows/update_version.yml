@@ -16,7 +16,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0
           persist-credentials: false
       - name: Setup flutter
         uses: subosito/flutter-action@v2

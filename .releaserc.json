@@ -21,7 +21,7 @@
       "@semantic-release/git",
       {
         "assets": [
-          "apps/carb_manager/pubspec.yaml",
+          "apps/buyer_app/pubspec.yaml",
           "package.json",
           "CHANGELOG.md"
         ]

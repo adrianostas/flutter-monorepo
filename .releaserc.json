@@ -12,12 +12,6 @@
       }
     ],
     [
-      "@semantic-release/npm",
-      {
-        "npmPublish": false
-      }
-    ],
-    [
       "@semantic-release/exec",
       {
         "prepareCmd": "./scripts/publish.sh ${nextRelease.type} ${options.branch} ${commits.length} ${Date.now()}"
@@ -27,7 +21,7 @@
       "@semantic-release/git",
       {
         "assets": [
-         "apps/buyer_app/pubspec.yaml",
+          "apps/carb_manager/pubspec.yaml",
           "package.json",
           "CHANGELOG.md"
         ]

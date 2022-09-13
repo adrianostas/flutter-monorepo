@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [8.10.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.9.0...v8.10.0) (2022-09-13)
+
+
+### Features
+
+* add action to enable/disable include administrators ([#8](https://github.com/adrianostas/flutter-monorepo/issues/8)) ([d693a08](https://github.com/adrianostas/flutter-monorepo/commit/d693a089f0aa56007ee17cdf5210b7ce058b5fc7))
+
 # [8.9.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.8.0...v8.9.0) (2022-09-08)
 
 

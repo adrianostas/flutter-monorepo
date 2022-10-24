@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [8.12.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.11.0...v8.12.0) (2022-10-24)
+
+
+### Features
+
+* remove slashes ([c3b7bf8](https://github.com/adrianostas/flutter-monorepo/commit/c3b7bf8846121d0f881a7166fdef13bdc45839d9))
+
 # [8.11.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.10.0...v8.11.0) (2022-10-24)
 
 

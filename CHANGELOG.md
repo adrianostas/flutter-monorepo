@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [8.13.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.12.0...v8.13.0) (2022-10-24)
+
+
+### Features
+
+* revert changes ([7021ec3](https://github.com/adrianostas/flutter-monorepo/commit/7021ec3880bea2b9b29562eba6a82eb801daa54e))
+
 # [8.12.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.11.0...v8.12.0) (2022-10-24)
 
 

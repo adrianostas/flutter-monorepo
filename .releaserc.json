@@ -24,8 +24,7 @@
           "apps/buyer_app/pubspec.yaml",
           "package.json",
           "CHANGELOG.md"
-        ],
-        "message": "chore(release): ${nextRelease.version} ${nextRelease.notes}"
+        ]
       }
     ],
     "@semantic-release/github"

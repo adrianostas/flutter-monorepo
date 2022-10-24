@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [8.15.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.14.0...v8.15.0) (2022-10-24)
+
+
+### Features
+
+* revert to default message ([a7bf831](https://github.com/adrianostas/flutter-monorepo/commit/a7bf831673fc6ccb2f920dcc3ee98813837d964c))
+
 # [8.14.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.13.0...v8.14.0) (2022-10-24)
 
 

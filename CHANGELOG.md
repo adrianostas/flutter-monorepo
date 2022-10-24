@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [8.11.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.10.0...v8.11.0) (2022-10-24)
+
+
+### Features
+
+* change package json file ([9eac9c9](https://github.com/adrianostas/flutter-monorepo/commit/9eac9c93b2625843c2815e175bb63758291eefcb))
+* remove skip ci from default message ([26f5a1c](https://github.com/adrianostas/flutter-monorepo/commit/26f5a1cb9fe2d985bc443db14d1ee14658802d0e))
+
 # [8.10.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.9.0...v8.10.0) (2022-09-13)
 
 

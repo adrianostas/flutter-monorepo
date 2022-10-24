@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [8.16.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.15.0...v8.16.0) (2022-10-24)
+
+
+### Features
+
+* remove skip ci ([ab36a06](https://github.com/adrianostas/flutter-monorepo/commit/ab36a06c4e70a297129a2799b42160e6cabe21f5))
+
 # [8.15.0](https://github.com/adrianostas/flutter-monorepo/compare/v8.14.0...v8.15.0) (2022-10-24)
 
 
